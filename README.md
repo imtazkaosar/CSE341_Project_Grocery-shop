@@ -151,8 +151,9 @@ This project demonstrates:
 
 ## 📜 License
 
-This project is developed for educational purposes.
+This project is intended for academic and educational use only.
 
-
-1. Install DOSBox.
-2. Mount your project directory:
+### Authors
+Md. Imtaz Kaosar  
+Wasi Farabi  
+Shayonton Hasan  
